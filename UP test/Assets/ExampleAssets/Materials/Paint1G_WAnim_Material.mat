@@ -66,10 +66,10 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - Vector1_2EE2CB80: 0.01
-    - _SnowDensity: 1
+    - _SnowDensity: 7.06
     - _SnowDepth: 0.1
     m_Colors:
     - Color_23C9B10D: {r: 0, g: 0.61, b: 0.85, a: 0}
     - Color_A2AAE5B5: {r: 0.78999996, g: 0.8399999, b: 0.96999997, a: 0}
     - Vector2_C848BFFB: {r: 0.3, g: 0.8, b: 0, a: 0}
-    - _SnowDirection: {r: 0, g: 1, b: 0, a: 0}
+    - _SnowDirection: {r: 0, g: 26.95, b: 0, a: 0}

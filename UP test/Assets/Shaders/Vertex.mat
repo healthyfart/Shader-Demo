@@ -22,6 +22,6 @@ Material:
     m_TexEnvs: []
     m_Floats:
     - _Alpha: 1.7
-    - _Amout: 0.32
+    - _Amout: -1.96
     - _Speed: 0.05
     m_Colors: []

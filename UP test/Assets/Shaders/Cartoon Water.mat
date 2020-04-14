@@ -21,10 +21,10 @@ Material:
     serializedVersion: 3
     m_TexEnvs: []
     m_Floats:
-    - _Alpha: 0.8
-    - _GiggleSpeed: 5
-    - _WaterDensity: 10.07
-    - _WaveSpeed: 0.2
+    - _Alpha: 1.32
+    - _GiggleSpeed: 6.21
+    - _WaterDensity: 9.4
+    - _WaveSpeed: 0.74
     m_Colors:
-    - _RippleColor: {r: 0.08234335, g: 1.509031, b: 2.493826, a: 0}
-    - _WaterColor: {r: 0, g: 0.216495, b: 1, a: 0}
+    - _RippleColor: {r: 0.05490196, g: 0.9098039, b: 1.4980392, a: 0}
+    - _WaterColor: {r: 0, g: 0.32941177, b: 1.4980392, a: 0}
